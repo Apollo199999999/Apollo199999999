@@ -2,7 +2,7 @@
 
 I am Matthias, and this is the place where I experiment with stuff and hopefully not crash my computer in the process.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo199999999&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollo199999999&theme=tokyonight)
 )](https://github.com/anuraghazra/github-readme-stats)
 
 * 🔭 I do not have any active projects at the moment, however, I do have plans for future projects.
